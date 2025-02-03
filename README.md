@@ -27,7 +27,7 @@ Train the Model : Train the model on a dataset of normal images.
 Test the Model : Test the model with new images to classify them as "normal" or "anomalie."
 
 ## Technologies Used
-Python : Programming language used for development.
-OpenCV : Library for image processing and feature extraction.
-scikit-learn : Machine learning library for training the Isolation Forest model.
-Streamlit : Framework for creating the user interface.
+- Python for development.
+- OpenCV for image processing and feature extraction.
+- scikit-learn for training the Isolation Forest model.
+- Streamlit for the user interface.
