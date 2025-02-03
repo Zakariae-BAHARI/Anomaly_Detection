@@ -1,0 +1,10 @@
+# Ignorer les fichiers binaires
+*.model
+*.pickle
+
+# Ignorer les fichiers temporaires
+temp_image.jpg
+
+# Ignorer les fichiers système
+__pycache__/
+.DS_Store
